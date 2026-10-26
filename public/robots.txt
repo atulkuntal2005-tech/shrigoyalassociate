@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /properties
+Allow: /about
+Allow: /services
+Allow: /contact
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://www.shrigoyalassociate.in/sitemap.xml
